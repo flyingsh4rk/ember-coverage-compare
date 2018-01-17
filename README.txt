@@ -1,1 +1,1 @@
-java -jar coverage-all-1.0-SNAPSHOT.jar C:/Users/sic.org/Desktop/local.html http://192.168.1.106:8080/cloud.html
+java -jar coverage-all-1.0-SNAPSHOT.jar <Local file> <Remote Http>
